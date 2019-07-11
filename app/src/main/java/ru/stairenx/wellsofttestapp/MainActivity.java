@@ -2,7 +2,6 @@ package ru.stairenx.wellsofttestapp;
 
 
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.Toast;
 
 import androidx.annotation.Nullable;
